@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prathamesh-sonawane-6609a5223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh sonawane" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sonawaneprathamesh131@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonawaneprathamesh131@gmail.com" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sonawanepratham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonawaneprathamesh131@gmail.com" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/sonawaneprathamesh131@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sonawaneprathamesh131@gmail.com" height="30" width="40" /></a>
 </p>
 

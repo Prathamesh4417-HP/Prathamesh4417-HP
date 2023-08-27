@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React , NodeJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathamesh4417-HP/Prathamesh4417-HP](https://github.com/Prathamesh4417-HP/Prathamesh4417-HP)
 

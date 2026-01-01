@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh4417-hp&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh4417-hp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh4417-hp" alt="prathamesh4417-hp" /></a> </p>
+
 
 - 🔭 I’m currently working on **PowerBI Dashboards**
 

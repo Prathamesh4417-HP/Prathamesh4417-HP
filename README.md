@@ -1,4 +1,4 @@
-![MasterHead]([https://chatgpt.com/c/694583e9-19f4-8331-a8ee-4208466d4131](https://github.com/Prathamesh4417-HP/Prathamesh4417-HP/blob/main/GithubHeader.jpeg))
+![MasterHead](https://github.com/Prathamesh4417-HP/Prathamesh4417-HP/blob/main/GithubHeader.jpeg)
 <h1 align="center">Hello 👋, I'm Prathamesh Sonawane</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <!-- <img align="right" alt="Coding" width="200"  src="https://thumbs.dreamstime.com/b/businessman-works-computer-office-workplace-neat-man-working-flat-cartoon-character-vector-bearded-guy-cup-coffee-208393046.jpg" -->

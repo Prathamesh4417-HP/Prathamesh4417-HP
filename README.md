@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/data-analytics-illustration.png" alt="Data Analytics Illustration" width="700"/>
+</p>
 ![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 <h1 align="center">Hello 👋, I'm Prathamesh Sonawane</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>

@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/prathamesh-sonawane-6609a5223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh sonawane" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sonawanepratham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonawaneprathamesh131@gmail.com" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@DataVizPrathameshOfficial" target="blank"><img align="center" src="https://freepnglogo.com/images/all_img/1701508739youtube-png.png" alt="sonawaneprathamesh131@gmail.com" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@DataVizPrathameshOfficial" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DataVizPrathameshOfficial" height="30" width="40" /></a>
 
 ## 🛠️ Tools & Technologies
 
